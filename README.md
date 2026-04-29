@@ -35,6 +35,7 @@ This project is designed as a beginner-friendly DeFi savings vault prototype on 
 ## Screenshots :
 <img width="573" height="643" alt="testapp" src="https://github.com/user-attachments/assets/4f79ddce-5cab-4dbe-a152-be5efcc3c330" />
 <img width="671" height="112" alt="commits3+" src="https://github.com/user-attachments/assets/8da78928-2917-425a-adc2-591bc126db71" />
+<img width="726" height="334" alt="image" src="https://github.com/user-attachments/assets/289b6a26-cfd4-4158-8f05-b9fb2aaf7498" />
 
 
 
