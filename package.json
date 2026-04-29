@@ -1,0 +1,28 @@
+{
+  "name": "stellar-defi-savings-vault",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Stellar Testnet DeFi-style savings vault mini-dApp for tracking XLM deposits and savings goals.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@stellar/freighter-api": "latest",
+    "@stellar/stellar-sdk": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@vitejs/plugin-react": "latest",
+    "jsdom": "latest",
+    "vitest": "latest"
+  }
+}
