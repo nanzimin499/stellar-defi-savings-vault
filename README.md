@@ -16,11 +16,10 @@ The project includes:
 
 ## Live Demo
 
-Live Demo: `ADD_YOUR_VERCEL_LINK_HERE`
+Live Demo: [`ADD_YOUR_VERCEL_LINK_HERE`](https://marvelous-blini-da945a.netlify.app/)
 
-Demo Video: `ADD_YOUR_DEMO_VIDEO_LINK_HERE`
+Demo Video: [`ADD_YOUR_DEMO_VIDEO_LINK_HERE`](https://drive.google.com/file/d/1DUSsCEf3rBDxhO8CY11B6Jo7f_5UO4uh/view?usp=sharing)
 
-GitHub Repository: `ADD_YOUR_GITHUB_REPO_LINK_HERE`
 
 ---
 
